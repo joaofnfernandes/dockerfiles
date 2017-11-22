@@ -1,8 +1,8 @@
 ---
-title: "Product Management,"
+title: "Product Management"
 subtitle: "for you, me, and anyone else"
 author: "Joao Fernandes"
 lang: "en-EN"
 cover-image: "img/cover.png"
-css: "css/style.css"
+stylesheet: "css/stylesheet.css"
 ---
