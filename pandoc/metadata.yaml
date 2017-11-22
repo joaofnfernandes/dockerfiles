@@ -1,6 +1,8 @@
 ---
-title: book name
-creator: your name
-lang: en-EN
-cover-image: img/cover.png
+title: "Product Management,"
+subtitle: "for you, me, and anyone else"
+author: "Joao Fernandes"
+lang: "en-EN"
+cover-image: "img/cover.png"
+css: "css/style.css"
 ---
