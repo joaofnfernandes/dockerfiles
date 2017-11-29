@@ -7,7 +7,7 @@ CHAPTERS = chapters/chapter-1.md
 # generate bin/product-management.epub
 # $@ is the filename of the target rule
 # $^ is the name of the prerequisites
-bin/$(BOOK_NAME).epub: $(METADATA_FILE) $(CHAPTERS) $(BUILD_DIR)/.pandoc
+$(BUILD_DIR)/$(BOOK_NAME).epub: $(METADATA_FILE) $(CHAPTERS) $(BUILD_DIR)/.pandoc
 	@mkdir -p $(BUILD_DIR)
 	@docker run -v $(shell pwd):/src joaofnfernandes/pandoc \
 		-f markdown -t epub3 \
@@ -17,9 +17,9 @@ bin/$(BOOK_NAME).epub: $(METADATA_FILE) $(CHAPTERS) $(BUILD_DIR)/.pandoc
 
 # Create a Docker image with Pandoc, and create a file on disk so that
 # Make can track if the Docker image changed
-bin/.pandoc: Dockerfile
-	docker build -t joaofnfernandes/pandoc .
+$(BUILD_DIR)/.pandoc: Dockerfile
 	@mkdir -p $(BUILD_DIR)
+	docker build -t joaofnfernandes/pandoc .
 	@touch $(BUILD_DIR)/.pandoc
 
 .PHONY: clean
