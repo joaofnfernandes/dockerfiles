@@ -2,7 +2,7 @@ BUILD_DIR = bin
 BOOK_NAME = product-management
 METADATA_FILE = metadata.yaml
 TOC_ARGS = --toc --toc-depth=2
-CHAPTERS = chapters/chapter-1.md
+CHAPTERS = chapters/*.md
 
 # generate bin/product-management.epub
 # $@ is the filename of the target rule
