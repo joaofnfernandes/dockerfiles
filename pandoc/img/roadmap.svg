@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="250px" viewBox="0 0 750 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>roadmap</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="roadmap">
+            <text id="research-plan-design" font-family="OpenSans-Semibold, Open Sans" font-size="26" font-weight="500" line-spacing="33" fill="#9B9B9B">
+                <tspan x="150" y="38">research</tspan>
+                <tspan x="150" y="71">plan</tspan>
+                <tspan x="150" y="104">design</tspan>
+                <tspan x="150" y="137">validate</tspan>
+                <tspan x="150" y="170">implement</tspan>
+                <tspan x="150" y="203">release</tspan>
+                <tspan x="150" y="236">maintain</tspan>
+            </text>
+            <path d="M137,231.547813 L137,19.7612042" id="Line" stroke="#E1E1E1" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M68,65 C47.01,65 28,82.015 28,103.01 C28,124 45.345,149.06 68,185 C90.655,149.06 108,124 108,103.01 C108,82.015 88.995,65 68,65 Z M68,120 C59.715,120 53,113.285 53,105 C53,96.715 59.715,90 68,90 C76.285,90 83,96.715 83,105 C83,113.285 76.285,120 68,120 Z" id="Shape" fill="#9B9B9B" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
