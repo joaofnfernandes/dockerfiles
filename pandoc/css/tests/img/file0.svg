@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="250px" viewBox="0 0 750 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>venn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="venn">
+            <g id="Group-3" transform="translate(13.000000, 11.000000)">
+                <text id="that’s-your-PM-right" font-family="OpenSans-Semibold, Open Sans" font-size="26" font-weight="500" fill="#9B9B9B">
+                    <tspan x="0" y="176">that’s your PM</tspan>
+                    <tspan x="0" y="212">right there!</tspan>
+                </text>
+                <g id="arrow" transform="translate(204.000000, 95.000000)" stroke="#4A90E2" stroke-width="5">
+                    <path d="M0.765469484,77.3155137 C29.462321,49.7940418 61.9664959,30.3555372 98.2779944,19 C134.589493,7.64446279 173.86604,2.48255703 216.107636,3.5142827" id="Path-2"></path>
+                    <polyline id="Path-3" stroke-linecap="round" points="212.357271 0.00428472479 216.932111 4.05757184 213.278472 7.94693359"></polyline>
+                </g>
+                <g id="Group-2" transform="translate(290.000000, 0.000000)">
+                    <ellipse id="Oval-Copy-2" stroke="#979797" stroke-width="3" cx="134.391104" cy="154" rx="77.1855828" ry="77"></ellipse>
+                    <text id="Business" font-family="OpenSans-Semibold, Open Sans" font-size="28" font-weight="500" fill="#4A90E2">
+                        <tspan x="75.3812428" y="187.89071">Business</tspan>
+                    </text>
+                    <g id="Group">
+                        <ellipse id="Oval-Copy" stroke="#979797" stroke-width="3" cx="191.331288" cy="77" rx="77.1855828" ry="77"></ellipse>
+                        <text id="Design" font-family="OpenSans-Semibold, Open Sans" font-size="28" font-weight="500" fill="#4A90E2">
+                            <tspan x="161.626474" y="77.2295082">Design</tspan>
+                        </text>
+                        <ellipse id="Oval" stroke="#979797" stroke-width="3" cx="77.4509202" cy="77" rx="77.1855828" ry="77"></ellipse>
+                        <text id="Tech" font-family="OpenSans-Semibold, Open Sans" font-size="28" font-weight="500" fill="#4A90E2">
+                            <tspan x="32.887935" y="81.2295082">Tech</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

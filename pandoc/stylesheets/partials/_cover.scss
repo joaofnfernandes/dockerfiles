@@ -1,5 +1,9 @@
 /* Used in the epub cover page */
 
+#cover-image > img {
+  margin: 0;
+}
+
 .cover {
   text-align: center;
   color: $blue;

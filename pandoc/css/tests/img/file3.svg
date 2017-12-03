@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="250px" viewBox="0 0 750 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>problem-space</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="problem-space">
+            <g id="Group-2" transform="translate(9.000000, 17.000000)">
+                <g id="Group" transform="translate(223.000000, 0.000000)">
+                    <polygon id="Rectangle-Copy-2" fill="#979797" points="259 87 291 98.6666667 291 117.333333 259 129"></polygon>
+                    <polygon id="Rectangle-Copy" fill="#C5C5C5" points="176 61 248 87.3888889 248 129.611111 176 156"></polygon>
+                    <polygon id="Rectangle" fill="#EAEAEA" points="0 0 164 60.2777778 164 156.722222 0 217"></polygon>
+                </g>
+                <text id="all-underserved-need" font-family="OpenSans-Semibold, Open Sans" font-size="26" font-weight="500" fill="#9B9B9B">
+                    <tspan x="4.16357422" y="100">all underserved </tspan>
+                    <tspan x="64.3393555" y="136">needs</tspan>
+                </text>
+                <text id="underserved-needs-wo" font-family="OpenSans-Semibold, Open Sans" font-size="26" font-weight="500" fill="#9B9B9B">
+                    <tspan x="550.330566" y="82">underserved </tspan>
+                    <tspan x="551.435059" y="118">needs worth </tspan>
+                    <tspan x="574.356445" y="154">pursuing</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
