@@ -1,3 +1,11 @@
-bin/
+# macOS exclusions
 **/.DS_Store
+
+# Binary and temp files
+bin/
+.sass-cache/
+
+# css is generated from scss
+css/*.css*
+
 todo

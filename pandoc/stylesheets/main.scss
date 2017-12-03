@@ -1,0 +1,91 @@
+// Modules and Variables
+@import "partials/base";
+
+// Partials
+@import "partials/reset";
+@import "partials/headers";
+@import "partials/cover";
+
+/* Responsive images */
+img {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* ------------------- lists --------------------- */
+
+dt {
+  padding-top: 10px;
+  padding-bottom: 0;
+}
+
+dd {
+  margin-left: 1.5em;
+  margin-bottom: 0.25em;
+}
+
+dd, li { text-align: left; }
+ul { list-style-type: disc; }
+ul ul { list-style-type: square; }
+ul ul ul { list-style-type: circle; }
+ol { list-style-type: decimal; }
+ol ol { list-style-type: lower-alpha; }
+ol ol ol { list-style-type: lower-roman; }
+ol ul { list-style-type: disc; }
+ol ul ol { list-style-type: decimal; }
+ul ol { list-style-type: decimal; }
+ul ol ul { list-style-type: disc; }
+
+ol, ul {
+  list-style-position: outside;
+  margin: 15px 0 15px 1.25em;
+}
+ol li, ul li {
+  margin: .5em 0 .65em;
+  line-height: 125%;
+}
+
+
+/* ----------------- tables ----------------- */
+
+div.table, table {
+  display: table;
+  max-width: 95%;
+  margin: 15px 0 30px 0;
+  border: none;
+  background: none;
+}
+
+div.table, div.informaltable, table {
+  page-break-inside: avoid;
+}
+
+tr,
+tr td {
+  border-bottom: 1px solid $blue;
+}
+
+thead td,
+thead th {
+  border-bottom: $blue 1px solid;
+  border-top: $blue 1px solid;
+}
+
+tr:nth-of-type(even) {
+  background-color: #f1f6fc;
+}
+
+thead {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+td,
+th {
+  display: table-cell;
+  padding: 0.3em;
+  text-align: left;
+  vertical-align: middle;
+  font-size: 80%;
+}

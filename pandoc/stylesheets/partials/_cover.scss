@@ -1,0 +1,21 @@
+/* Used in the epub cover page */
+
+.cover {
+  text-align: center;
+  color: $blue;
+}
+
+h1.title {
+  @extend .cover;
+  border-bottom: 0;
+  margin-bottom: 15px
+}
+
+p.subtitle {
+  @extend .cover;
+}
+
+p.author {
+  @extend .cover;
+  font-size: 1.3em;
+}
