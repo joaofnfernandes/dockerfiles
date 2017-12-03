@@ -6,6 +6,7 @@
 @import "partials/headers";
 @import "partials/cover";
 
+
 /* Responsive images */
 img {
   display: block;
@@ -39,11 +40,11 @@ ul ol ul { list-style-type: disc; }
 
 ol, ul {
   list-style-position: outside;
-  margin: 15px 0 15px 1.25em;
+  margin: 15px 0 15px 1.5em;
 }
-ol li, ul li {
-  margin: .5em 0 .65em;
-  line-height: 125%;
+p, ol li, ul li {
+  margin-bottom: 1em;
+  line-height: 1.2em;
 }
 
 
