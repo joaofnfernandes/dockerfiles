@@ -11,8 +11,10 @@ RUN curl -skL -o kindlegen.tar.gz $KINDLEGEN_URL && \
     cp kindlegen /bin
 
 #Minimal image with Alpine+KindleGen
-FROM alpine:latest
+FROM scratch
 MAINTAINER Joao Fernandes <joao.fernandes@docker.com>
-COPY --from=build-env /bin/kindlegen /bin
+COPY --from=build-env /bin/kindlegen /kindlegen
+# Kindlegen writes to /tmp but we can't use the run directive since we're in scratch
+COPY --from=build-env /tmp /tmp
 WORKDIR /app
-ENTRYPOINT ["kindlegen"]
+ENTRYPOINT ["/kindlegen"]
