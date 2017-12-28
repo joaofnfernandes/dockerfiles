@@ -71,4 +71,4 @@ $(BUILD_DIR)/.kindlegen: Dockerfile.kindlegen
 .PHONY: clean
 clean:
 	@echo "Cleaning project"
-	@rm -rf $(BUILD_DIR)
+	@rm -rf .sass-cache css/*.css* $(BUILD_DIR)
