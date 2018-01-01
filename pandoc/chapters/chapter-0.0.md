@@ -80,3 +80,10 @@ At both companies, I saw in first hand what it takes for you to build, market,
 and sell products that developers are passionate about. I also got to
 experience the pain points of working for companies that are grew by 3X since
 the time I joined.
+
+At both of these companies I got to work with a ton of amazing engineers,
+designers, product managers, program managers, project managers, and a bunch
+of other folks essential to create products people want.
+
+I also got to see first hand a ton of mistakes that caused us to ship late,
+over budget, or worse, something that users didn't really care about.
