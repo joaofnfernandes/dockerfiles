@@ -1,36 +1,91 @@
-# Roles and responsabilities
+# What this book is about
 
-Product management job decriptions are fuzzy, and the role and responsabilities of a PM is different for every company
-but I think you can sum up the job description for a PM in a single sentence:
+Since the beginning of my career I've been intrigued by Product Managers. In
+those days I could sense that Product Managers were generally smart, but I
+could not pinpoint why I felt that way. More importantly I didn't understand how
+exactly they contributed to the software development lifecycle.
 
-> A product manager makes sure the team ships products that people want.
+I didn't understand their role, their responsibilities, and the output of
+their work.
 
-If you're responsability is to ensure the team and company are shipping products that people want, your
-responsabilities are necessarily going to be fuzzy, because the responsabilities are going to change as the
-product and team changes.
+After working in the industry for eight years in the high-tech enterprise market,
+and having moved to the Bay Area, I started thinking about becoming a Product
+Manager myself.
 
-Since PMs don't have authority over the team (unlike the CEO), it means that they need to have a set of skills that
-allows them to influence others directly or indirectly, to make sure the product moves in the right direction.
+When going down that path, I realized that not only this role was kind of new,
+at least in the software industry, but also that there weren't a lot of
+high-quality resources out there.
 
-![](img/venn.svg)
+That's why I've wrote this book.
 
-Since PMs advocate for users, translate user needs into goals and features, and they also make sure those features ship,
-it becomes obvious that the PM's responsabilities span the whole product lifeycle.
+## Why I wrote this book
 
-## Product development lifecycle
+When I started to consider more seriously to transition into a PM role,
+I read as many books as I could get my hands on. I've also crawled the web
+searching for other high-quality resources about Product Management, and how
+to break into the field.
 
-![](img/roadmap.svg)
+Of course not all books and resources are alike. Some were great, others a bit
+of a disappointment. All in all I was left with the sense that there was a ton
+of resources out there, but could not find anything that gave me the big
+picture about the Product Management role.
 
-* Research - What to build or extend. Input comes from user requests, customer advisory groups, competitive analysis, analysts, new tech, user research, or research from marketing and sales.
-* Plan - Create a roadmap, and decide what to ship and when.
-* Design - Create a specification of what problems are user pains and use cases are going to be tackled and why. This is also the time to partner with developers and designers to come up with a technical solution to the problem you're trying to tackle.
-* Validate - Run your proposal through prospects, existing customers, sales engineers, and solution architects, to see if your solution will solve their painpoints or if you need to go back to the drawing board. You can leverage the user research team to run some of these sessions, but there's nothing like having 1st hand feedback, so you should be in the room listening to what users have to say.
-* Implement - At this point you have confidence that (1) you really understood the user's painpoints (2) you have a way to solve them. So this is the time to build features, or change existing ones.
-* Release - The product is ready to ship, but there's a couple of things that need to be coordinated for a successful launch. Make sure your field teams are training because they will be the ones getting the first questions comming hot from existing customers. Make sure your support teams are ready to triage and handle potential issues. Make sure the marketing team has everythinkg they need to communicate to existing customers, and the world at large what's changing, why, and how do users benefit from it.
-* Maintain - Once a feature is out you need to keep an eye on it. In the best case users will adopt the feature so you'll get more feedback on how to improve it. In the worst case, few users will adopt it, so you'll have to go back to the drawing board and check if something went wrong in the process of if there's just isn't demand for the feature, in which case you should think about killing it.
+As I tried to build the big picture for myself and compiling my own notes,
+I started thinking that I could save others a lot of time, so that they
+wouldn't have to go through the same trouble.
 
-PM's are also responsible for organizing alpha and beta programs to make sure you're (1) shipping something that's valuable to users (2) that you iron out all the details and bugs.
+I don't expect you to know everything there is to know about PM in this book,
+and I'm not sure if that's even possible. Instead, I'll try to give you the
+big picture, dive deeper into some areas that I think deserve a bit more
+attention, and point you in the right direction.
 
-Here I layed out these product development stages in a linear way, just to make them easier to understand. But if you're doing them in a linear way, you're basically doing waterfall and by now we all know that it kind of sucks. While there's some precedence and dependencies between the activities (it doesn't make sense to release before implementing, or does it?), you should do these activities in an iterative way.
+I hope that after reading this you don't have to waste time randomly combing
+through books and blog posts, in the hopes of getting a better understanding
+of the field.
 
-![](img/iterative.svg)
+## Who is this book for
+
+This book is for you if you're considering going into the PM field, or you
+just landed your first PM job.
+
+This book might also be interesting for other folks that interact with PMs.
+If you work in engineering, marketing, sales, support, or technical field,
+just to name a few.
+
+Understanding the Product Manager role and responsibilities will help you
+communicate more effectively with them and get work done. It can also help
+if you're working with a somewhat dysfunctional Product organization that
+works in a silo. By understanding what PMs do you can hopefully can help your
+company break some silos that might exist between the Product organization and
+the rest of your company.
+
+<startups, where you need to wear a lot of hats.>
+
+## Who am I
+
+I've worked in the high-tech industry for eight years, helping companies
+create enterprise products that are easy to use, and ideally require no
+documentation or training.
+
+I started working for OutSystems, an enterprise low-code platform that lets
+you visually develop your entire application and deploy it natively on iOS or
+Android devices, or to the web. There I created documentation, training, and
+certification programs for developers. I've also helped doing UX research.
+
+Then I moved to the Bay Area where I worked at Docker, the world's leading
+software container platform, enabling millions of users to build, ship, and run
+applications that are reproducible and work anywhere. There I lead the
+documentation for the enterprise product suite, and lead some UX research
+initiatives.
+
+At both companies, I saw in first hand what it takes for you to build, market,
+and sell products that developers are passionate about. I also got to
+experience the pain points of working for companies that are grew by 3X since
+the time I joined.
+
+At both of these companies I got to work with a ton of amazing engineers,
+designers, product managers, program managers, project managers, and a bunch
+of other folks essential to create products people want.
+
+I also got to see first hand a ton of mistakes that caused us to ship late,
+over budget, or worse, something that users didn't really care about.

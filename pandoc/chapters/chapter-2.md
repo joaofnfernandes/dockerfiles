@@ -1,88 +1,143 @@
-# The problem space
+# Product Management and other roles
 
-Since the first state of the product development lifecycle is doing research, PMs need to make this a structured and
-data-driven activity. If not, they risk doing what all marketing organizations where doing in the 90's, use your gut.
-Of course most of the times they would not really understand what users really want, and would ship products and
-campaigns that no one cared about.
+When talking about Product Management, one of the first questions people ask
+is what's the difference between a Product Manager, a Program Manager, and a
+Project Manager.
 
-The most important thing when running research activities is to be focused in the problem space, and not be bound by
-possible solutions.
-You do this in an iterative way, each time funneling down the problem space, until you end up with a problem that you
-think deserves to be solved.
+This is a relevant question, and I think that most of the confusion comes from
+the fact that these three roles mean different things for different companies.
 
-![](img/problem-space.svg)
+It doesn't help that both three roles have the same acronym - PM. So when
+someone says that their PM is responsible for the project being delayed, it's
+not obvious to which role they're referring to.
 
-There's a lot of ways that you could go about musing about problems, but a good way is to break it down in two parts:
-finding the personas you want to cater to, and finding what are their user stories that are underserved.
+One of the best ways to find out what a role means for a specific company, is to
+read a couple of job postings for that position in a specific company. If
+you want to know what is Google's definition of a Product Manager, the best
+way is to read job postings for Product Managers at Google.
 
-## Personas
+For big established companies like Google this strategy works great. It can even
+be more reliable than just asking someone that works in another department at
+Google.
 
-A persona is a fictional person that you develop and is repressentative of a type of user that you'll cater to.
-The best way to create personas is by doing user research, and talking with real people. This will allow you to
-identify people with the same needs, goals, and interests.
+Big companies with a repeatable business model like Google spend a lot of time
+thinking about how to optimize their internal processes, how to minimize the
+risk of hiring the wrong person, and how to create a career path for each role
+they have inside the company.
 
-![](img/personas.svg)
+Since they've spent a ton of time doing that, their job postings will usually
+be very structured and list the areas of responsibility for a given role.
 
-You can create as many personas as you want, but the goal of creating personas in the first place is so that you
-can refer to them when identifying underserved needs, and comming up with potential solutions for them.
-This means that if you have a ton of personas it will be hard to remember them all and to make trade-offs between
-competing problems and priorities that two personas might have. So shoot for creating and maintaining three to five
-personas.
+Startups are a whole different story. Startups are also very concerned with
+hiring the best person for the job, but by definition a startup is a company
+that is still looking for a repeatable business model.
+Until the team finds one, they'll have to pivot and constantly change what
+they are building and the processes they are using.
 
-This might seem few in the beginning, but don't forget that personas are both a shared language and a moving target.
-So it's best that everyone in the team understands and refers back to a couple of personas you might have, instead
-of kind of getting and constantly being confused about the tens of personas you might have.
+This means that it's hard to tell what a specific role is for a startup because
+that person will be wearing multiple hats since there's not much people but
+there's a lot of work to be done, and the tasks that need to be done will be
+changing at a fast pace, until the startup finds a repeatable business model.
 
-Personas are also a moving target in the sense that they are not static. They are not a formal role in a company or
-a job title. Personas are specific to the problem space you're working on. This means that you should spend time
-reviewing them and iterating on them based on continuous user research.
+The best way to know what are the areas of responsibility for a role in a
+startup, is to go for a coffee with the founders or someone that has that
+role.
 
-Here's what you'll want to know for each persona:
+Having said that, here's the more or less standard definition for these
+areas of responsibility:
 
-* Made up name - This makes it easy for everyone in the team to refer to
-* Job title - In well established industries a job title has a well defined set of responsabilities
-* Responsabilities, goals, and needs
-* Challenges and painpoints
+* Project management: Makes sure the project is delivered on time;
+* Program management: Are usually more technical than project managers, or given
+more authority over the team they're working with;
+* Product management: Makes sure the team tackles the
 
-You can also keep track of demografics like age, and gender, but from my experience those are not very
-meaningful data points, unless you're targeting a very specific age group or gender.
+Let's explore a bit more these three roles.
 
-Above all else, personas should be grounded in existing people. No matter how well you develop your personas, if they
-are completely fictionalized, and no one in the world has the same goals, needs, and challenges as them, then
-you'll be developing a product for no one in particular. You won't be able to achieve product/market fit for such
-a product.
+## Project management
 
-By taking the time to develop personas, you'll be able to quickly:
-* Priotize competing problems/solutions
-* Validate design decisions
-* Get feedback from key stakeholders
-
-## User stories
-
-User stories are a nice and concise way to describe a user pain point or underserved need. Without them it's
-very easy to talk about features and goals, without thinking about the underlying painpoint users have.
-Without this you'll be building features blindingly. Some times you'll nail it and people will want to use the
-feature. Other times you'll fail and no one will care about the new feature you're developing. And why take that risk?
-
-So here's how a user story looks like:
-
-```
-As a <persona>, I want to <goal>, in order to <underlying reason>
-```
-
-Of course sometimes you'll have to work on something that might not make sense to write a user story for. Things like
-refactoring a code base. But those are the exception rather than the rule. And of course you could write it as user
-story if you really want to: "As the front-end team, I want to have a clean API to develop against, in order to be more
-productive and introduce less bugs in the product."
-
-You can write user stories with different abstraction levels. If a single user story is too complex to implement or
-leaves a lot of room for interpretation, you can break it down into smaller ones. In that case the industry lingo
-for the top, main one is "epic".
-
-Just like personas, you don't come up with user stories out of thin air. They are refined from explicit user requests,
-feedback from customer advisory groups, competitive analysis, user research, and feedback from marketing and sales.
+There are companies that market and sell things that are not necessarily a
+product, but a service.
 
 
-1. personas
-2. user stories
-3. metrics
+They can offer financial consulting like Deloitte,
+PricewaterhouseCoopers, Ernst & Young, KPMG, and many others do. They can offer
+HR staffing like Randstad or Adecco. They can do marketing campaigns like
+Ogilvy & Mather. You get the idea.
+
+So while companies like this don't have a product, they still run projects and
+need to make sure projects are delivered on budget and on time. And that's
+basically what a project manager does. It sounds simpler, but the reality
+is that most projects end up being late, exceeding their budget, or both.
+
+For simple projects, it's not that hard to estimate how long the project is
+going to cost and take to complete. But most projects are not like that.
+
+Most projects will have a lot of things that need to be figured out as the project
+goes. The multiple teams working on the project need to be coordinated so that
+time is not wasted when people depend on one another.
+
+It might also make sense to offload a specific part of the project to another
+company. In that case the project manager needs to make sure the external
+contractor delivers that subproject on time and on budget. If they don't the
+overall project is at risk.
+
+The project manager is also the first point of contact for the leads of each
+teams working in the project to raise any issues that might affect the project.
+
+When you're a product company there's a certain point when it might start to
+make a sense to have both product and project managers. The first helps define
+what should be built, the second makes sure it gets built on budget and on
+time.
+
+Project management can be as deep and wide as you want it to be. If you're
+building the next generation commercial airplane for sure you'll need a ton
+of tools and processes due to the complexity of the project and the number of
+people involved.
+
+But if you're a startup you don't need all of those. Actually trying to apply
+rigid tools and processes will probably backfire, because a startup by
+definition is a company that is still iterating on their business model.
+So a startup needs to be optimized for learning and finding product-market fit,
+and that requires constantly changing processes.
+
+Given that in a startup a product manager wears multiple hats and is responsible
+for shipping on budget and on time, we'll cover some project management
+essentials in
+
+## Program management
+
+When projects get too complex, like building the next generation commercial
+airliner, or you want to make changes to the way a company is doing things,
+then you might need a program manager.
+
+In some companies, project managers are not very technical, so they might not
+be able to fully assess the risks of the project, or even the requirements and
+possible solutions. It's also possible that program managers help define what
+projects the company should focus on, and what projects should be offloaded to
+external companies, or just postponed.
+
+
+## More notes
+
+There's a couple of responsibilities and activities that might overlap between
+Program Managers, Project Managers, and Product Managers. But the first two roles
+are mostly responsible for making sure the team is building the product on
+schedule and on budget.
+
+
+## Summary
+
+Each of these areas is really interesting, and if you're planning on being a
+Product Manager at a startup, you need to be ready to wear the hats of a
+Product Manager, Project Manager, and Program Manager.
+
+As the startup grows you'll find other people that can work full time wearing
+a single hat, but until then you'll have to make sure you're building the
+right product, and doing it on time and budget.
+
+Making sure you're building the right product needs to always be front and
+center. It doesn't matter if you're keeping your deadlines but it turns out
+that you're building something that no one wants.
+
+Sure, you'll get cookie points for making it on time, but the startup will have
+to pivot or run out of business.
