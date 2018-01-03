@@ -55,26 +55,33 @@ Let's explore a bit more these three roles.
 
 ## Project management
 
-There are companies that market and sell things that are not necessarily a
-product, but a service.
+A ton of companies out there make a business out of selling things that are
+not necessarily a product.
 
+Deloitte, PricewaterhouseCoopers, Ernst & Young, and KPMG offer financial
+consulting and auditing. Randstad, Adecco, and many others offer HR staffing.
+Ogilvy & Mather, Publicis, and others manage public relations.
+Infosys, Tata, Accenture, Capgemini, and many others do IT consulting.
 
-They can offer financial consulting like Deloitte,
-PricewaterhouseCoopers, Ernst & Young, KPMG, and many others do. They can offer
-HR staffing like Randstad or Adecco. They can do marketing campaigns like
-Ogilvy & Mather. You get the idea.
+Companies like these usually don't have a product or portfolio of products
+to sell, instead, they provide services to their customers. And they'll have to
+make sure the services or projects they deliver are done on budget and on time.
 
-So while companies like this don't have a product, they still run projects and
-need to make sure projects are delivered on budget and on time. And that's
-basically what a project manager does. It sounds simpler, but the reality
-is that most projects end up being late, exceeding their budget, or both.
+So there's your basic definition of a project manager. Someone that makes sure
+the project is delivered on budget and on time.
 
-For simple projects, it's not that hard to estimate how long the project is
-going to cost and take to complete. But most projects are not like that.
+Sure, for simple projects you can just do a back of the napkin estimation and
+take it from there. But most projects are not like that.
+Most projects start by being a fuzzy idea when it is started, and then things
+change as the project starts going.
 
-Most projects will have a lot of things that need to be figured out as the project
-goes. The multiple teams working on the project need to be coordinated so that
-time is not wasted when people depend on one another.
+The customer adds new requirements to the project. People learn that there are
+dependencies between tasks that risk delaying the project. Things are more
+costly than originally predicted.
+
+A project manager will keep track of all these things and make sure the project
+keeps moving forward. They also coordinate the multiple teams and dependencies
+to make sure things are getting according to schedule.
 
 It might also make sense to offload a specific part of the project to another
 company. In that case the project manager needs to make sure the external
@@ -84,25 +91,43 @@ overall project is at risk.
 The project manager is also the first point of contact for the leads of each
 teams working in the project to raise any issues that might affect the project.
 
-When you're a product company there's a certain point when it might start to
-make a sense to have both product and project managers. The first helps define
-what should be built, the second makes sure it gets built on budget and on
-time.
+Overall, making sure a big project runs on budget and on time is tough work
+given that most projects end up being late, exceeding their budget, or both.
 
-Project management can be as deep and wide as you want it to be. If you're
-building the next generation commercial airplane for sure you'll need a ton
-of tools and processes due to the complexity of the project and the number of
-people involved.
+Now contrast the companies that were mentioned earlier with companies that have
+to manage a product or a portfolio of products.
 
-But if you're a startup you don't need all of those. Actually trying to apply
-rigid tools and processes will probably backfire, because a startup by
-definition is a company that is still iterating on their business model.
-So a startup needs to be optimized for learning and finding product-market fit,
-and that requires constantly changing processes.
+These are companies like Google, Apple, Facebook, Microsoft in the digital world.
+Proctor and Gamble, Unilever, and Nestle in the consumer goods space.
+GlaxoSmithKline, Pfizer, and Merk in the pharmaceutical industry. A big chunk
+of the money these companies make are by selling products either to consumers
+or other companies.
 
-Given that in a startup a product manager wears multiple hats and is responsible
-for shipping on budget and on time, we'll cover some project management
-essentials in
+These companies need to make sure these products are built on budget and on
+time, but most importantly, they need to make sure they are creating the
+right products to begin with.
+
+To them it doesn't really matter if a product is completed on time but
+there's no one out there that wants to buy it. And that is basically what
+draws the line in the sand for most Project Managers.
+
+A Project Manager is responsible to make sure the project gets completed on
+time, but usually doesn't define the type of project, or if the project is
+relevant or not to a set of users.
+
+But don't take this the wrong way. Project Management is really hard given
+that most projects end up being late and exceeding their budget. Project
+Management can also be as deep as you want it to be.
+
+If you're building the next generation commercial airplane for sure you'll need
+a ton proven tools and processes in place to make sure things run according
+to schedule. For large and complex projects like that, a small bump in the road
+might affect the overall plan.
+
+On the other hand, if you're a startup and still trying to find a repeatable
+business model you'll need less rigid tools and processes. The focus should
+be in finding product-market fit, and that requires to constantly change the
+plan until you find it.
 
 ## Program management
 
