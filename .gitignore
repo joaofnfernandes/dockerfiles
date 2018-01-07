@@ -8,4 +8,5 @@ bin/
 # css is generated from scss
 css/*.css*
 
+# My to-do list
 todo
